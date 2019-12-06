@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.exe
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.deps.json
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.runtimeconfig.json
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.dll
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.0\StringBuilder.pdb
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.0\StringBuilder.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.0\StringBuilder.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.0\StringBuilder.dll
+C:\Users\Lucas\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.0\StringBuilder.pdb
